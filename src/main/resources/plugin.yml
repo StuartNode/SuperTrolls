@@ -1,0 +1,8 @@
+name: SuperTrolls
+description: $description
+version: '${version}'
+main: dev.stuart.superTrolls.SuperTrolls
+api-version: '1.21'
+authors: [ StuartNode ]
+commands:
+  troll: { }
